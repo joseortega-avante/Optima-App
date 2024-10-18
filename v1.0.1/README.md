@@ -22,7 +22,7 @@
 ### Optimización del Almacenamiento
 - Se han optimizado los recursos de la aplicacion, de modo que en vez de pesar 250 MB ahora pesa 120MB.
 
-## Compatibilidad
+### Compatibilidad
 - Ahora es compatible con Android 9.0 y versiones superiores.
 
 ## Requerimientos Mínimos
