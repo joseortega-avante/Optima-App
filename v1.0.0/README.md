@@ -18,4 +18,4 @@
 - Los datos obtenidos se muestran en una nueva pantalla, proporcionando detalles como la descripción del producto, precio, inventario, entre otros.
 
 ## Compatibilidad
-- Compatible con Android 9.0 y versiones superiores.
+- Compatible con Android 12.0 y versiones superiores.
