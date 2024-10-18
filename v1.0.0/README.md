@@ -19,8 +19,9 @@
 
 ## Requerimientos Mínimos
 
-| **Sistema Operativo** | Android 12.0 o Superior |
+| **Requerimiento** | Descripción |
 | ----------- | ----------- |
+| **Sistema Operativo** | Android 12.0 o superior |
 | **Hardware** | Cámara Funcional para escanear codigos de barras |
 |              | Conexión a internet (Wi-Fi o Datos Móviles)      |
 |**Almacenamiento**| Al menos 300 MB de espacio libre para la instalación |
