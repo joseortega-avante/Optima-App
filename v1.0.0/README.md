@@ -17,13 +17,11 @@
 - Después de escanear un código de barras, la aplicación realiza una consulta a un servicio web para obtener información relacionada con el código.
 - Los datos obtenidos se muestran en una nueva pantalla, proporcionando detalles como la descripción del producto, precio, inventario, entre otros.
 
-## Requerimientos mínimos
+## Requerimientos Mínimos
 
-- **Sistema operativo**: Android 9.0 (Pie) o superior.
-- **Hardware**:
-  - Cámara funcional para escanear códigos de barras.
-  - Conexión a internet (Wi-Fi o datos móviles).
-- **Almacenamiento**: Al menos 300 MB de espacio libre para la instalación.
-- **Permisos**:
-  - Acceso a la cámara.
-  - Acceso a la red (Wi-Fi/datos móviles) para autenticación y consultas.
+| **Sistema Operativo** | Android 12.0 o Superior |
+| **Hardware** | Cámara Funcional para escanear codigos de barras |
+|              | Conexión a internet (Wi-Fi o Datos Móviles)      |
+|**Almacenamiento**| Al menos 300 MB de espacio libre para la instalación |
+|**Permisos**| Acceso a la cámara |
+|            | Acceso a la red (Wi-fi o Datos Móviles) para autenticación y consultas |
