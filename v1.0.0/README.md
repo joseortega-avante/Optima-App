@@ -19,23 +19,23 @@
 
 ## Requerimientos Mínimos
 
-<table>
+<table align="center">
     <tbody>
         <tr>
             <td style="font-weight: bold" align="center">Sistema Operativo</td>
-            <td align="justify">Android 12.0 o Superior</td>
+            <td align="center">Android 12.0 o Superior.</td>
         </tr>          
         <tr>
             <td style="font-weight: bold" align="center">Hardware</td>
-            <td align="justify">Camara Funcional para escanear codigos de barras <br> Conexión a internet (Wi-fi o Datos Moviles)</td>
+            <td align="center">Camara Funcional para escanear codigos de barras. <br> Conexión a internet (Wi-fi o Datos Moviles).</td>
         </tr>
                 <tr>
             <td style="font-weight: bold" align="center">Almacenamiento</td>
-            <td align="justify">Al menos 300 MB de espacio libre para la instalación</td>
+            <td align="center">Al menos 300 MB de espacio libre para la instalación.</td>
         </tr>  
                 <tr>
             <td style="font-weight: bold" align="center">Permisos</td>
-            <td align="justify">Acceso a la cámara <br> Acceso a la red (Wi-Fi o Datos Móviles) para autenticación y consultas</td>
+            <td align="center">Acceso a la cámara para escanear codigos de barras. <br> Acceso a la red (Wi-Fi o Datos Móviles) para autenticación y consultas.</td>
         </tr>  
     </tbody>
 </table>
